@@ -2,7 +2,7 @@
 
 Spring MVC Project on managing the phone numbers of the customers. 
 
-Requirements :
-Tomcat<br/> 
+Requirements :<br>
+Tomcat<br> 
 Spring FrameWork
 
